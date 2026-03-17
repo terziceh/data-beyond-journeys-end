@@ -3,13 +3,43 @@
 School provided the foundation.  
 The real journey begins after the degree.
 
-This repository documents my continued development in data analytics, data engineering, and data science through real systems and applied projects.
+This repository documents my continued development in **data analytics, data engineering, and data science** through real systems and applied projects.
 
-Each entry is structured like an episode in a walkthrough series — explaining what was built, problems encountered, and lessons learned.
+Each entry is structured like an **episode in a walkthrough series**, documenting what was built, the problems encountered, and the lessons learned along the way.
 
-Topics explored include:
-- data analytics dashboards
-- SQL data modeling
-- Python ETL pipelines
-- machine learning experiments
-- system architecture for data platforms
+The goal is to treat learning like a **build-in-public engineering log** — focusing on practical systems rather than theoretical exercises.
+
+## Topics Explored
+
+Projects in this repository explore areas such as:
+
+- Data analytics dashboards and KPI frameworks  
+- SQL data modeling and database design  
+- Python ETL pipelines and automation systems  
+- Machine learning experiments and predictive models  
+- Data platform architecture and system design  
+- AI agents for real-world decision support
+
+## Structure
+
+Each entry represents a step in the journey and typically includes:
+
+- The problem being explored
+- The system or tool that was built
+- Technical approaches used
+- Challenges encountered
+- Key lessons learned
+
+Some entries are small experiments, while others evolve into full projects.
+
+## Philosophy
+
+The goal of this repository is simple:
+
+**Keep building. Keep learning. Keep documenting the journey.**
+
+
+
+## Episode Log
+
+- Filler Episode — Fitness Meal Planner AI Agent (Prototype)
