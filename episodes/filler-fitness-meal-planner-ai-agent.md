@@ -1,4 +1,4 @@
-# Episode 01 (Filler) — Fitness Meal Planner AI Agent
+# Episode (Filler) — Fitness Meal Planner AI Agent
 
 ## Date
 March 16, 2026
