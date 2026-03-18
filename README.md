@@ -40,6 +40,17 @@ The goal of this repository is simple:
 
 
 
-## Episode Log
+# Episode Log
 
-- Filler Episode — Fitness Meal Planner AI Agent (Prototype)
+## Filler Episode — Fitness Meal Planner AI Agent (Prototype)
+Initial exploration into building a simple AI agent for personalized nutrition planning based on fitness goals, preferences, and constraints.
+
+---
+
+## Episode 1 — Framing the Problem: Invoice Reader System Design
+Mapped out the current utility invoice workflow and identified inefficiencies in manual processing. Designed a conceptual data pipeline to transform unstructured PDF invoices into structured, analytics-ready data for improved accuracy, efficiency, and decision-making.
+
+---
+
+## Episode 2 — Presentation Planning: Communicating a Data-Driven Workflow Redesign
+Developed a structured narrative and presentation plan to explain the invoice reader system, focusing on current-state challenges, proposed pipeline architecture, and the business impact of transitioning from manual entry to a data-driven process.
