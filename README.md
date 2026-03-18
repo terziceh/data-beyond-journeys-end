@@ -7,7 +7,7 @@ This repository documents my continued development in **data analytics, data eng
 
 Each entry is structured like an **episode in a walkthrough series**, documenting what was built, the problems encountered, and the lessons learned along the way.
 
-The goal is to treat learning like a **build-in-public engineering log**
+The goal is to treat learning like a **build-in-public engineering log**.
 
 ## Topics Explored
 
