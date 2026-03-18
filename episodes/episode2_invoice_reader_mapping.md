@@ -1,5 +1,11 @@
 # Episode 2 — Framing the Problem
 
+## 📽️ Presentation
+
+View the full Invoice Reader System presentation here:  
+👉 [Invoice Reader Presentation (Google Slides)](https://docs.google.com/presentation/d/1l5cnoLCeXrX6UQbcsl3nOJtV1AcXdxatOv4FU4stKr4/edit?usp=sharing)
+
+
 Today focused on stepping back from development and designing the full story behind the invoice reader system.
 
 Instead of just building the tool, I worked on clearly defining:
