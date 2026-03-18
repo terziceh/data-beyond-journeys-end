@@ -2,7 +2,7 @@
 
 ## Screenshot
 
-![Invoice Swimlane Draft](../assets/Invoice Swimlane Rough Draft.png)
+![Invoice Swimlane Draft](../assets/episode-1-swimlane-current-state.png)
 
 ---
 
