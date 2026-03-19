@@ -1,5 +1,8 @@
 # Episode 3 — Movie Rating Predictor: From Idea to System Design
 
+> 🎥 **Full Project Walkthrough Presentation:**  
+> https://www.canva.com/design/DAHEa1EaYQQ/EEVuxZr6ZKcJhJw9PqaOOw/edit?utm_content=DAHEa1EaYQQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ## 🎬 Overview
 
 Today I mapped out the full design for a new data science project: a system that predicts how a user will rate a movie *before* watching it.
