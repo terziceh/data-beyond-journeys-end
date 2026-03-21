@@ -1,4 +1,4 @@
-# Episode 3 — Reset Before the Next Arc
+# Filler - reset Before the Next Arc
 
 Not every day needs to be a build day.
 
