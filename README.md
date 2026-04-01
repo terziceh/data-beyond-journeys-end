@@ -3,54 +3,96 @@
 School provided the foundation.  
 The real journey begins after the degree.
 
-This repository documents my continued development in **data analytics, data engineering, and data science** through real systems and applied projects.
+This repository documents my continued development in **data analytics, data engineering, data science, and early-stage AI systems** through real projects and applied learning.
 
 Each entry is structured like an **episode in a walkthrough series**, documenting what was built, the problems encountered, and the lessons learned along the way.
 
 The goal is to treat learning like a **build-in-public engineering log**.
 
-## Topics Explored
+---
 
-Projects in this repository explore areas such as:
+## 🧭 Current Focus
 
-- Data analytics dashboards and KPI frameworks  
-- SQL data modeling and database design  
-- Python ETL pipelines and automation systems  
-- Machine learning experiments and predictive models  
-- Data platform architecture and system design  
-- AI agents for real-world decision support
+- Building real systems instead of isolated analyses  
+- Strengthening fundamentals in SQL, Python, and data modeling  
+- Exploring machine learning and recommendation systems  
+- Beginning early work with AI agents and automation concepts  
 
-## Structure
+---
 
-Each entry represents a step in the journey and typically includes:
+## 🧠 Topics Explored
 
-- The problem being explored
-- The system or tool that was built
-- Technical approaches used
-- Challenges encountered
-- Key lessons learned
+- Data analytics and dashboard thinking  
+- System design and workflow mapping  
+- Python data manipulation (pandas)  
+- Recommendation system fundamentals  
+- AI agent prototyping  
+- Data pipeline thinking  
 
-Some entries are small experiments, while others evolve into full projects.
+---
 
-## Philosophy
+## 🏗️ Structure
+
+Each episode includes:
+
+- The problem being explored  
+- The system or idea being built  
+- Technical approaches used  
+- Challenges encountered  
+- Key lessons learned  
+
+Some entries are quick experiments, while others represent deeper system thinking.
+
+---
+
+## 📂 Episode Log
+
+### Episode 0 — Fitness Meal Planner AI Agent (Prototype)
+Initial exploration into building a simple AI agent for personalized nutrition planning based on fitness goals and preferences.
+
+---
+
+### Episode 1 — Invoice Reader System Design
+Mapped out the current utility invoice workflow and identified inefficiencies in manual processing. Designed a conceptual pipeline to transform unstructured invoices into structured data.
+
+---
+
+### Episode 2 — Invoice Reader Workflow Mapping
+Focused on breaking down the system into a clearer data flow, thinking through how inputs, processing, and outputs connect in a real workflow.
+
+---
+
+### Episode 3 — Movie Rating Predictor (Mockup)
+Began exploring recommendation systems and rating prediction using movie data. Practiced thinking about user behavior, aggregation logic, and how predictions could be structured.
+
+---
+
+### Episode 4 — Analytics → Systems Thinking
+Shifted mindset from building individual analyses to thinking in terms of full systems and pipelines. Began focusing on how components connect end-to-end.
+
+---
+
+### Filler — Rest Days
+Short entries used to maintain consistency and reflection, even on lighter or non-technical days.
+
+---
+
+## 💡 Philosophy
 
 The goal of this repository is simple:
 
 **Keep building. Keep learning. Keep documenting the journey.**
 
-
-
-# Episode Log
-
-## Filler Episode — Fitness Meal Planner AI Agent (Prototype)
-Initial exploration into building a simple AI agent for personalized nutrition planning based on fitness goals, preferences, and constraints.
-
 ---
 
-## Episode 1 — Framing the Problem: Invoice Reader System Design
-Mapped out the current utility invoice workflow and identified inefficiencies in manual processing. Designed a conceptual data pipeline to transform unstructured PDF invoices into structured, analytics-ready data for improved accuracy, efficiency, and decision-making.
+## 🚀 Direction
 
----
+This repository is evolving toward:
 
-## Episode 2 — Presentation Planning: Communicating a Data-Driven Workflow Redesign
-Developed a structured narrative and presentation plan to explain the invoice reader system, focusing on current-state challenges, proposed pipeline architecture, and the business impact of transitioning from manual entry to a data-driven process.
+- Data science rigor (models, prediction, evaluation)  
+- Automation systems (real workflows)  
+- AI-assisted tools and intelligent systems  
+
+Long term goal:
+
+> Build end-to-end systems that combine data, automation, and intelligence to support real-world decision making.
