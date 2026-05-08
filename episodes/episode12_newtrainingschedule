@@ -1,23 +1,37 @@
+Yes — the main issue is the heading hierarchy and spacing. GitHub README rendering is very dependent on:
+
+* proper heading levels,
+* spacing between sections,
+* cleaner tables,
+* and avoiding too many horizontal dividers.
+
+Your content itself is good — it just needs formatting polish so it looks like a real GitHub roadmap/training repo README. 
+
+Here’s the cleaner GitHub-style structure you should use:
+
+---
+
 # Applied Data Science Training System
 
 ## Overview
 
-This training system is designed around reinforcement, recall, application, and project integration.
-
-Core loop:
+This training system is built around:
 
 ```text
-Learn → Reinforce → Recall From Memory → Apply → Combine → Repeat
+Learn → Reinforce → Recall → Apply → Combine → Repeat
 ```
 
-The goal is not just recognizing syntax.
+The goal is to develop:
 
-The goal is:
+* instant recall
+* analytical intuition
+* pattern recognition
+* project execution skills
+* real-world data problem solving
 
-* instant recall,
-* analytical intuition,
-* pattern recognition,
-* and being able to solve realistic analysis problems entirely from memory.
+This is not passive learning.
+
+The goal is to answer realistic analytics and machine learning questions completely from memory.
 
 ---
 
@@ -25,37 +39,38 @@ The goal is:
 
 ## Phase 1 — Training
 
-Learn the concept deeply enough to understand:
+Learn:
 
-* syntax,
-* structure,
-* purpose,
-* and business application.
+* syntax
+* structure
+* purpose
+* business application
 
 ---
 
 ## Phase 2 — Reinforcement
 
-Repeat the topic through:
+Repeat concepts through:
 
-* mini exercises,
-* recall drills,
-* and progressively harder questions.
+* mini exercises
+* recall drills
+* progressively harder questions
 
-Goal:
+### Goal
+
 Answer without notes or autocomplete.
 
 ---
 
 ## Phase 3 — Application
 
-Apply the topic to realistic analytics problems.
+Apply concepts to realistic analytics problems.
 
-Examples:
+### Example Applications
 
 * utilities analytics
 * invoice automation
-* movie recommender datasets
+* movie recommendation datasets
 * Pokémon grading analytics
 * forecasting datasets
 
@@ -63,9 +78,9 @@ Examples:
 
 ## Phase 4 — Project Integration
 
-Use the concept naturally inside projects.
+Use concepts naturally inside projects.
 
-Examples:
+### Examples
 
 * SQL Server pipelines
 * pandas cleaning
@@ -81,34 +96,40 @@ Examples:
 
 ## Goal
 
-Become fully comfortable retrieving, filtering, summarizing, and analyzing relational data from memory.
+Become fully comfortable:
 
-Benchmark:
+* retrieving
+* filtering
+* summarizing
+* and analyzing relational data entirely from memory.
+
+### Benchmark
+
 Open a dataset and independently answer analysis questions using SQL.
 
 ---
 
-# SQL Level 1 Topics
+## SQL Level 1 Topics
 
-| Topic                                    | Status        |
-| ---------------------------------------- | ------------- |
-| SELECT                                   | ✅ Complete    |
-| FROM                                     | ✅ Complete    |
-| WHERE                                    | ⬜ Not Started |
-| ORDER BY                                 | ⬜ Not Started |
-| GROUP BY                                 | ⬜ Not Started |
-| HAVING                                   | ⬜ Not Started |
-| LIMIT                                    | ⬜ Not Started |
-| Aggregations (COUNT, SUM, AVG, MIN, MAX) | ⬜ Not Started |
-| NULL Handling                            | ⬜ Not Started |
-| Basic Joins                              | ⬜ Not Started |
-| String Manipulation                      | ⬜ Not Started |
-| Date Manipulation                        | ⬜ Not Started |
-| Arithmetic Operators                     | ⬜ Not Started |
+| Topic                | Status        |
+| -------------------- | ------------- |
+| SELECT               | ✅ Complete    |
+| FROM                 | ✅ Complete    |
+| WHERE                | ⬜ Not Started |
+| ORDER BY             | ⬜ Not Started |
+| GROUP BY             | ⬜ Not Started |
+| HAVING               | ⬜ Not Started |
+| LIMIT                | ⬜ Not Started |
+| Aggregations         | ⬜ Not Started |
+| NULL Handling        | ⬜ Not Started |
+| Basic Joins          | ⬜ Not Started |
+| String Manipulation  | ⬜ Not Started |
+| Date Manipulation    | ⬜ Not Started |
+| Arithmetic Operators | ⬜ Not Started |
 
 ---
 
-# SQL Level 1 Reinforcement Strategy
+## SQL Reinforcement Strategy
 
 For every topic:
 
@@ -119,7 +140,7 @@ For every topic:
 5. Complete realistic analysis questions
 6. Revisit previous topics continuously
 
-Pseudo-training loop:
+### SQL Training Loop
 
 ```python
 for topic in sql_topics:
@@ -135,11 +156,9 @@ for topic in sql_topics:
 
 ---
 
-# SQL Level 1 Current Progress
+## SQL Level 1 Current Progress
 
-## Completed Topics
-
-### SELECT
+### ✅ SELECT
 
 Mastered:
 
@@ -149,19 +168,16 @@ Mastered:
 * calculated columns
 * output shaping
 
-Examples completed successfully from memory:
+Example:
 
 ```sql
 SELECT employee_name, salary
 FROM employees;
 ```
 
-```sql
-SELECT *, amount_due * 0.02 AS late_fee
-FROM invoices;
-```
+---
 
-### FROM
+### ✅ FROM
 
 Mastered:
 
@@ -169,7 +185,7 @@ Mastered:
 * query structure
 * SELECT → FROM flow
 
-Core structure memorized:
+Core structure:
 
 ```sql
 SELECT columns
@@ -182,21 +198,28 @@ FROM table_name;
 
 ## Goal
 
-Become fully comfortable loading, cleaning, exploring, transforming, and analyzing datasets with Python.
+Become fully comfortable:
 
-Primary focus:
+* loading
+* cleaning
+* exploring
+* transforming
+* and analyzing datasets with Python.
+
+### Primary Focus
 
 * pandas
 * dataframe manipulation
 * data cleaning
 * exploratory analysis
 
-Benchmark:
+### Benchmark
+
 Open a raw dataset and independently clean/analyze it without guidance.
 
 ---
 
-# Python Level 1 Topics
+## Python Level 1 Topics
 
 | Topic                           | Status        |
 | ------------------------------- | ------------- |
@@ -213,18 +236,16 @@ Open a raw dataset and independently clean/analyze it without guidance.
 
 ---
 
-# Python Level 1 Reinforcement Strategy
-
-For every topic:
+## Python Reinforcement Strategy
 
 1. Learn the syntax
 2. Practice repeatedly
 3. Apply to realistic datasets
 4. Combine with previous concepts
-5. Solve analysis exercises from memory
+5. Solve exercises from memory
 6. Repeat until second nature
 
-Pseudo-training loop:
+### Python Training Loop
 
 ```python
 for topic in python_topics:
@@ -250,7 +271,7 @@ Build deep fluency in:
 * applied machine learning
 * project execution
 
-Then use projects to naturally learn:
+Then learn advanced tooling naturally through projects:
 
 * APIs
 * Databricks
@@ -261,34 +282,30 @@ Then use projects to naturally learn:
 * orchestration
 * ML pipelines
 
-Core philosophy:
+---
+
+# Core Philosophy
 
 ```text
 Master the foundations deeply.
-Use projects to learn the advanced tooling naturally.
+Use projects to learn advanced tooling naturally.
 ```
 
 ---
 
-# Current Position
-
-Current focus:
-
-* SQL Level 1 mastery
-* Python/pandas Level 1 mastery
-* reinforcement through repetition
-* realistic analysis applications
-* portfolio project integration
-
-Current active project stack:
+# Current Project Stack
 
 1. Invoice Automation System
 2. Movie Recommender System
 3. Utilities Forecasting & Dashboarding
 4. Pokémon Market Intelligence System
 
-These projects will serve as:
+These projects serve as:
 
-* application environments,
-* portfolio pieces,
-* and advanced learning systems.
+* application environments
+* portfolio pieces
+* advanced learning systems
+
+---
+
+That structure will render much cleaner on [GitHub README documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github?utm_source=chatgpt.com) and look more like an actual professional roadmap/training repo.
