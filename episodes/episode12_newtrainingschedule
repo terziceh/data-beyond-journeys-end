@@ -1,16 +1,3 @@
-Yes — the main issue is the heading hierarchy and spacing. GitHub README rendering is very dependent on:
-
-* proper heading levels,
-* spacing between sections,
-* cleaner tables,
-* and avoiding too many horizontal dividers.
-
-Your content itself is good — it just needs formatting polish so it looks like a real GitHub roadmap/training repo README. 
-
-Here’s the cleaner GitHub-style structure you should use:
-
----
-
 # Applied Data Science Training System
 
 ## Overview
@@ -23,11 +10,11 @@ Learn → Reinforce → Recall → Apply → Combine → Repeat
 
 The goal is to develop:
 
-* instant recall
-* analytical intuition
-* pattern recognition
-* project execution skills
-* real-world data problem solving
+- instant recall
+- analytical intuition
+- pattern recognition
+- project execution skills
+- real-world data problem solving
 
 This is not passive learning.
 
@@ -40,24 +27,21 @@ The goal is to answer realistic analytics and machine learning questions complet
 ## Phase 1 — Training
 
 Learn:
-
-* syntax
-* structure
-* purpose
-* business application
+- syntax
+- structure
+- purpose
+- business application
 
 ---
 
 ## Phase 2 — Reinforcement
 
 Repeat concepts through:
-
-* mini exercises
-* recall drills
-* progressively harder questions
+- mini exercises
+- recall drills
+- progressively harder questions
 
 ### Goal
-
 Answer without notes or autocomplete.
 
 ---
@@ -67,12 +51,11 @@ Answer without notes or autocomplete.
 Apply concepts to realistic analytics problems.
 
 ### Example Applications
-
-* utilities analytics
-* invoice automation
-* movie recommendation datasets
-* Pokémon grading analytics
-* forecasting datasets
+- utilities analytics
+- invoice automation
+- movie recommendation datasets
+- Pokémon grading analytics
+- forecasting datasets
 
 ---
 
@@ -81,14 +64,13 @@ Apply concepts to realistic analytics problems.
 Use concepts naturally inside projects.
 
 ### Examples
-
-* SQL Server pipelines
-* pandas cleaning
-* recommendation systems
-* dashboards
-* forecasting
-* APIs
-* ML preparation
+- SQL Server pipelines
+- pandas cleaning
+- recommendation systems
+- dashboards
+- forecasting
+- APIs
+- ML preparation
 
 ---
 
@@ -97,34 +79,32 @@ Use concepts naturally inside projects.
 ## Goal
 
 Become fully comfortable:
-
-* retrieving
-* filtering
-* summarizing
-* and analyzing relational data entirely from memory.
+- retrieving
+- filtering
+- summarizing
+- and analyzing relational data entirely from memory.
 
 ### Benchmark
-
 Open a dataset and independently answer analysis questions using SQL.
 
 ---
 
 ## SQL Level 1 Topics
 
-| Topic                | Status        |
-| -------------------- | ------------- |
-| SELECT               | ✅ Complete    |
-| FROM                 | ✅ Complete    |
-| WHERE                | ⬜ Not Started |
-| ORDER BY             | ⬜ Not Started |
-| GROUP BY             | ⬜ Not Started |
-| HAVING               | ⬜ Not Started |
-| LIMIT                | ⬜ Not Started |
-| Aggregations         | ⬜ Not Started |
-| NULL Handling        | ⬜ Not Started |
-| Basic Joins          | ⬜ Not Started |
-| String Manipulation  | ⬜ Not Started |
-| Date Manipulation    | ⬜ Not Started |
+| Topic | Status |
+|---|---|
+| SELECT | ✅ Complete |
+| FROM | ✅ Complete |
+| WHERE | ⬜ Not Started |
+| ORDER BY | ⬜ Not Started |
+| GROUP BY | ⬜ Not Started |
+| HAVING | ⬜ Not Started |
+| LIMIT | ⬜ Not Started |
+| Aggregations | ⬜ Not Started |
+| NULL Handling | ⬜ Not Started |
+| Basic Joins | ⬜ Not Started |
+| String Manipulation | ⬜ Not Started |
+| Date Manipulation | ⬜ Not Started |
 | Arithmetic Operators | ⬜ Not Started |
 
 ---
@@ -161,12 +141,11 @@ for topic in sql_topics:
 ### ✅ SELECT
 
 Mastered:
-
-* selecting columns
-* selecting all columns
-* aliases
-* calculated columns
-* output shaping
+- selecting columns
+- selecting all columns
+- aliases
+- calculated columns
+- output shaping
 
 Example:
 
@@ -180,10 +159,9 @@ FROM employees;
 ### ✅ FROM
 
 Mastered:
-
-* table selection
-* query structure
-* SELECT → FROM flow
+- table selection
+- query structure
+- SELECT → FROM flow
 
 Core structure:
 
@@ -199,40 +177,37 @@ FROM table_name;
 ## Goal
 
 Become fully comfortable:
-
-* loading
-* cleaning
-* exploring
-* transforming
-* and analyzing datasets with Python.
+- loading
+- cleaning
+- exploring
+- transforming
+- and analyzing datasets with Python.
 
 ### Primary Focus
-
-* pandas
-* dataframe manipulation
-* data cleaning
-* exploratory analysis
+- pandas
+- dataframe manipulation
+- data cleaning
+- exploratory analysis
 
 ### Benchmark
-
 Open a raw dataset and independently clean/analyze it without guidance.
 
 ---
 
 ## Python Level 1 Topics
 
-| Topic                           | Status        |
-| ------------------------------- | ------------- |
-| Importing Libraries             | ⬜ Not Started |
-| Reading CSVs and Files          | ⬜ Not Started |
-| Selecting Rows and Columns      | ⬜ Not Started |
-| Filtering with Conditions       | ⬜ Not Started |
-| Renaming Columns                | ⬜ Not Started |
-| Changing Data Types             | ⬜ Not Started |
-| Exploring Data                  | ⬜ Not Started |
-| Handling Missing Values         | ⬜ Not Started |
+| Topic | Status |
+|---|---|
+| Importing Libraries | ⬜ Not Started |
+| Reading CSVs and Files | ⬜ Not Started |
+| Selecting Rows and Columns | ⬜ Not Started |
+| Filtering with Conditions | ⬜ Not Started |
+| Renaming Columns | ⬜ Not Started |
+| Changing Data Types | ⬜ Not Started |
+| Exploring Data | ⬜ Not Started |
+| Handling Missing Values | ⬜ Not Started |
 | Basic Charts and Visualizations | ⬜ Not Started |
-| Basic String Manipulation       | ⬜ Not Started |
+| Basic String Manipulation | ⬜ Not Started |
 
 ---
 
@@ -264,23 +239,21 @@ for topic in python_topics:
 # Long-Term Goal
 
 Build deep fluency in:
-
-* SQL
-* pandas
-* analytical thinking
-* applied machine learning
-* project execution
+- SQL
+- pandas
+- analytical thinking
+- applied machine learning
+- project execution
 
 Then learn advanced tooling naturally through projects:
-
-* APIs
-* Databricks
-* Spark
-* cloud systems
-* Docker
-* deployment
-* orchestration
-* ML pipelines
+- APIs
+- Databricks
+- Spark
+- cloud systems
+- Docker
+- deployment
+- orchestration
+- ML pipelines
 
 ---
 
@@ -301,11 +274,6 @@ Use projects to learn advanced tooling naturally.
 4. Pokémon Market Intelligence System
 
 These projects serve as:
-
-* application environments
-* portfolio pieces
-* advanced learning systems
-
----
-
-That structure will render much cleaner on [GitHub README documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github?utm_source=chatgpt.com) and look more like an actual professional roadmap/training repo.
+- application environments
+- portfolio pieces
+- advanced learning systems
