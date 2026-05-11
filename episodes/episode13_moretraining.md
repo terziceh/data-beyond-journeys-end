@@ -1,4 +1,4 @@
-````markdown
+
 # Applied Data Science Training System
 
 ## Overview
