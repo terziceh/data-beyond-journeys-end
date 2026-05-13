@@ -1,4 +1,3 @@
-````markdown
 # Python/pandas Training — Level 1 Foundations (Day Progress)
 
 ## Goal
@@ -458,5 +457,3 @@ Apply Level 1 SQL + pandas foundations into a real statistical analytics project
 * forecasting preparation
 * operational/business storytelling
 
-```
-```
